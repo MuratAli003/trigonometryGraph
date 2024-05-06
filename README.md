@@ -5,3 +5,4 @@
 <h2>Uygulama Önizleme</h2>
 ![SinCos](https://github.com/MuratAli003/trigonometryGraph/assets/120710970/fe7871ee-bd20-412d-a01f-b8d7f743c144)
 
+
